@@ -1,7 +1,7 @@
 # Price-Optimization-using-Python
 Price optimization is a strategic approach that leverages data on sales, costs, competition, and market trends to predict demand changes and analyze price elasticity, enabling businesses to set optimal prices. By understanding how price changes impact demand, companies can make informed pricing decisions to maximize revenue and market share.
 
-#Key Components of Price Optimization:
+# Key Components of Price Optimization:
 **Data Collection:** Gather data on sales, costs, competition, and market trends to form the basis for analysis.
 **Demand Prediction:** Use historical data to forecast how demand will change with different price points.
 **Price Elasticity Analysis:** Measure how sensitive the quantity demanded is to changes in price, helping to identify the optimal pricing strategy.
