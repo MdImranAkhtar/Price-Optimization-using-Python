@@ -24,8 +24,11 @@ Businesses often face the challenge of setting the right prices for their produc
 To begin the process of price optimization, it is essential to have a comprehensive dataset. The ideal dataset should include the following features:
 
 **Sales Data:** Historical sales information to analyze trends and patterns.
+
 **Cost Data:** Detailed cost data to understand the cost structure and its impact on pricing.
+
 **Competition Data:** Information on competitors' pricing to perform competitive analysis.
+
 **Market Trends:** Data on market trends to predict future demand and adjust pricing strategies accordingly.
 
 **Solution Approach:**
