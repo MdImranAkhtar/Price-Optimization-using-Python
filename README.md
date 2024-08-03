@@ -23,26 +23,26 @@ Businesses often face the challenge of setting the right prices for their produc
 
 To begin the process of price optimization, it is essential to have a comprehensive dataset. The ideal dataset should include the following features:
 
-**Sales Data:** Historical sales information to analyze trends and patterns.
+1. **Sales Data:** Historical sales information to analyze trends and patterns.
 
-**Cost Data:** Detailed cost data to understand the cost structure and its impact on pricing.
+2. **Cost Data:** Detailed cost data to understand the cost structure and its impact on pricing.
 
-**Competition Data:** Information on competitors' pricing to perform competitive analysis.
+3. **Competition Data:** Information on competitors' pricing to perform competitive analysis.
 
-**Market Trends:** Data on market trends to predict future demand and adjust pricing strategies accordingly.
+4. **Market Trends:** Data on market trends to predict future demand and adjust pricing strategies accordingly.
 
 **Solution Approach:**
 
 With the right dataset, businesses can use various analytical and machine learning techniques to perform price optimization. The process involves:
 
-**Data Analysis:** Analyzing sales, costs, and market trends to understand price dynamics.
+1. **Data Analysis:** Analyzing sales, costs, and market trends to understand price dynamics.
 
-**Price Elasticity Calculation:** Measuring how changes in price affect the quantity sold using price elasticity.
+2. **Price Elasticity Calculation:** Measuring how changes in price affect the quantity sold using price elasticity.
 
-**Competitive Analysis:** Comparing your pricing with competitors to identify opportunities and gaps.
+3. **Competitive Analysis:** Comparing your pricing with competitors to identify opportunities and gaps.
 
-**Machine Learning Models:** Implementing advanced models to predict optimal prices and forecast demand.
+4. **Machine Learning Models:** Implementing advanced models to predict optimal prices and forecast demand.
 
-**Visualization:** Using graphs and charts to visualize price distributions and elasticity trends.
+5. **Visualization:** Using graphs and charts to visualize price distributions and elasticity trends.
 
 By leveraging these techniques, businesses can make data-driven pricing decisions that enhance profitability and market competitiveness.
